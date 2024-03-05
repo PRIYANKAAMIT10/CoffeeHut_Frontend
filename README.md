@@ -1,4 +1,1 @@
-"# CoffeeHut_Frontend" 
-"# CoffeeHut_Backend" 
-"# CoffeeHut_Backend" 
-"# CoffeeHut_Backend" 
+"List of features tracked in the frontend repository." 
